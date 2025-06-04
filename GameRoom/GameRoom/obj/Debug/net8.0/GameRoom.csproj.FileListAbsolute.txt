@@ -1,0 +1,15 @@
+C:\Git_Room\GameRoom\GameRoom\bin\Debug\net8.0\GameRoom.exe
+C:\Git_Room\GameRoom\GameRoom\bin\Debug\net8.0\GameRoom.deps.json
+C:\Git_Room\GameRoom\GameRoom\bin\Debug\net8.0\GameRoom.runtimeconfig.json
+C:\Git_Room\GameRoom\GameRoom\bin\Debug\net8.0\GameRoom.dll
+C:\Git_Room\GameRoom\GameRoom\bin\Debug\net8.0\GameRoom.pdb
+C:\Git_Room\GameRoom\GameRoom\obj\Debug\net8.0\GameRoom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git_Room\GameRoom\GameRoom\obj\Debug\net8.0\GameRoom.AssemblyInfoInputs.cache
+C:\Git_Room\GameRoom\GameRoom\obj\Debug\net8.0\GameRoom.AssemblyInfo.cs
+C:\Git_Room\GameRoom\GameRoom\obj\Debug\net8.0\GameRoom.csproj.CoreCompileInputs.cache
+C:\Git_Room\GameRoom\GameRoom\obj\Debug\net8.0\GameRoom.sourcelink.json
+C:\Git_Room\GameRoom\GameRoom\obj\Debug\net8.0\GameRoom.dll
+C:\Git_Room\GameRoom\GameRoom\obj\Debug\net8.0\refint\GameRoom.dll
+C:\Git_Room\GameRoom\GameRoom\obj\Debug\net8.0\GameRoom.pdb
+C:\Git_Room\GameRoom\GameRoom\obj\Debug\net8.0\GameRoom.genruntimeconfig.cache
+C:\Git_Room\GameRoom\GameRoom\obj\Debug\net8.0\ref\GameRoom.dll

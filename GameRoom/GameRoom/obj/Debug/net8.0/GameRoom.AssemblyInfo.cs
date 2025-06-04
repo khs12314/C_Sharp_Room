@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GameRoom")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+acf965929c4163e7732cbc187b0f1032772a8f2c")]
 [assembly: System.Reflection.AssemblyProductAttribute("GameRoom")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GameRoom")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

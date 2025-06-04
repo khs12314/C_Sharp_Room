@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\qpqpq\\source\\repos\\GameRoom\\GameRoom\\GameRoom.csproj",
+      "projectUniqueName": "C:\\Git_Room\\GameRoom\\GameRoom\\GameRoom.csproj",
       "projectName": "GameRoom",
-      "projectPath": "C:\\Users\\qpqpq\\source\\repos\\GameRoom\\GameRoom\\GameRoom.csproj",
+      "projectPath": "C:\\Git_Room\\GameRoom\\GameRoom\\GameRoom.csproj",
       "packagesPath": "C:\\Users\\qpqpq\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\qpqpq\\source\\repos\\GameRoom\\GameRoom\\obj\\",
+      "outputPath": "C:\\Git_Room\\GameRoom\\GameRoom\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\qpqpq\\AppData\\Roaming\\NuGet\\NuGet.Config",
