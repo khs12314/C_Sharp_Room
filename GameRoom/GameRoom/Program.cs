@@ -18,23 +18,32 @@ namespace GameRoom
 
         public int MaxPlayers { get; set; }
 
-        public GameRoom(Player player, string Name, int RoomID)
+        public GameRoom( string Name, int Room, Player player, int MaxPlayers = 2)
         {
             
             Players = new List<Player>();
-            if (player == null) throw new ArgumentNullException(nameof(player), "Player cannot be null");
-            if (string.IsNullOrEmpty(Name)) throw new ArgumentException("Name cannot be null or empty", nameof(Name));
-            if (RoomID <= 0) throw new ArgumentOutOfRangeException(nameof(RoomID), "RoomID must be greater than zero");
-
-            Players.Add(player);
-            this.RoomID = RoomID;
             this.Name = Name;
-
+            RoomID = Room;
+            Players.Add(player);
+            this.MaxPlayers = MaxPlayers;
         }
 
-        public void CreateRoom(string name, int maxPlayers) {
+        public GameRoom CreateRoom(string name, int maxPlayers, Player player, int MaxPlayers) {
 
                //룸 id와 이름 등등 조건 만족 시 생성 실질적으로 이 메소드를 통해 생성할것임
+            Name = name ?? throw new ArgumentNullException(nameof(name), "Room name cannot be null.");
+
+            if(maxPlayers <= 0 || maxPlayers % 2 != 0)
+            {
+                throw new ArgumentOutOfRangeException(nameof(maxPlayers), "Max Player setting error");
+            }
+            MaxPlayers = maxPlayers;
+
+            player = player ?? throw new ArgumentNullException(nameof(player), "Player cannot be null.");
+
+            RoomID = new Random().Next(1, 9999); // 임의의 룸 ID 생성 (예: 1부터 9999 사이의 숫자)
+
+            return new GameRoom(name, RoomID, player, MaxPlayers); // 룸 생성 후 반환
 
         }
 
@@ -76,14 +85,12 @@ namespace GameRoom
             //게임 종료 로직
         }
 
-        public void RoomDelete(Token token)
+        public void RoomDelete()
         {
 
-            if(token.Equals(Token.RoomDelete))
-            {
-                //룸 삭제 로직
-                Players.Clear();
-            }
+            //룸 삭제 로직
+             Players.Clear();
+            
         }
 
         public void RegisterHandler(IHandlerClass handler)
@@ -102,7 +109,7 @@ namespace GameRoom
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            
         }
     }
 }

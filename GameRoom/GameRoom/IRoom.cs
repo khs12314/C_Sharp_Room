@@ -42,7 +42,7 @@ namespace GameRoom
         /// </summary>
         /// <param name="name"></param>
         /// <param name="maxPlayers"></param>
-        public void CreateRoom(string name, int maxPlayers);
+        public GameRoom CreateRoom(string name, int maxPlayers, Player player, int MaxPlayers = 2);
 
 
 
@@ -74,7 +74,7 @@ namespace GameRoom
         /// 룸을 삭제하는 메소드입니다. 토큰을 통해 룸 삭제 이벤트를 처리합니다.
         /// </summary>
         /// <param name="token"></param>
-        public void RoomDelete(Token token);
+        public void RoomDelete();
 
 
 

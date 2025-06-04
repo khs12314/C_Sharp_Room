@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Git_Room\\GameRoom\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C9B41861-C635-47D8-9E38-27B40587FA1E}|GameRoom\\GameRoom.csproj|c:\\git_room\\gameroom\\gameroom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9B41861-C635-47D8-9E38-27B40587FA1E}|GameRoom\\GameRoom.csproj|solutionrelative:gameroom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9B41861-C635-47D8-9E38-27B40587FA1E}|GameRoom\\GameRoom.csproj|c:\\git_room\\gameroom\\gameroom\\tokenenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9B41861-C635-47D8-9E38-27B40587FA1E}|GameRoom\\GameRoom.csproj|solutionrelative:gameroom\\tokenenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9B41861-C635-47D8-9E38-27B40587FA1E}|GameRoom\\GameRoom.csproj|c:\\git_room\\gameroom\\gameroom\\playerclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9B41861-C635-47D8-9E38-27B40587FA1E}|GameRoom\\GameRoom.csproj|solutionrelative:gameroom\\playerclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C9B41861-C635-47D8-9E38-27B40587FA1E}|GameRoom\\GameRoom.csproj|c:\\git_room\\gameroom\\gameroom\\handlerclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9B41861-C635-47D8-9E38-27B40587FA1E}|GameRoom\\GameRoom.csproj|solutionrelative:gameroom\\handlerclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C9B41861-C635-47D8-9E38-27B40587FA1E}|GameRoom\\GameRoom.csproj|c:\\git_room\\gameroom\\gameroom\\iroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C9B41861-C635-47D8-9E38-27B40587FA1E}|GameRoom\\GameRoom.csproj|solutionrelative:gameroom\\iroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{C9B41861-C635-47D8-9E38-27B40587FA1E}|GameRoom\\GameRoom.csproj|c:\\git_room\\gameroom\\gameroom\\playerclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9B41861-C635-47D8-9E38-27B40587FA1E}|GameRoom\\GameRoom.csproj|solutionrelative:gameroom\\playerclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B41861-C635-47D8-9E38-27B40587FA1E}|GameRoom\\GameRoom.csproj|c:\\git_room\\gameroom\\gameroom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9B41861-C635-47D8-9E38-27B40587FA1E}|GameRoom\\GameRoom.csproj|solutionrelative:gameroom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C9B41861-C635-47D8-9E38-27B40587FA1E}|GameRoom\\GameRoom.csproj|c:\\git_room\\gameroom\\gameroom\\igameroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C9B41861-C635-47D8-9E38-27B40587FA1E}|GameRoom\\GameRoom.csproj|solutionrelative:gameroom\\igameroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9B41861-C635-47D8-9E38-27B40587FA1E}|GameRoom\\GameRoom.csproj|c:\\git_room\\gameroom\\gameroom\\handlerclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9B41861-C635-47D8-9E38-27B40587FA1E}|GameRoom\\GameRoom.csproj|solutionrelative:gameroom\\handlerclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C9B41861-C635-47D8-9E38-27B40587FA1E}|GameRoom\\GameRoom.csproj|c:\\git_room\\gameroom\\gameroom\\datatype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9B41861-C635-47D8-9E38-27B40587FA1E}|GameRoom\\GameRoom.csproj|solutionrelative:gameroom\\datatype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -60,33 +60,33 @@
               "RelativeDocumentMoniker": "GameRoom\\IGameRoom.cs",
               "ToolTip": "C:\\Git_Room\\GameRoom\\GameRoom\\IGameRoom.cs",
               "RelativeToolTip": "GameRoom\\IGameRoom.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-04T13:00:50.582Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "IRoom.cs",
               "DocumentMoniker": "C:\\Git_Room\\GameRoom\\GameRoom\\IRoom.cs",
               "RelativeDocumentMoniker": "GameRoom\\IRoom.cs",
               "ToolTip": "C:\\Git_Room\\GameRoom\\GameRoom\\IRoom.cs",
               "RelativeToolTip": "GameRoom\\IRoom.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAIwEwAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-04T13:00:01.786Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TokenEnum.cs",
-              "DocumentMoniker": "C:\\Git_Room\\GameRoom\\GameRoom\\TokenEnum.cs",
-              "RelativeDocumentMoniker": "GameRoom\\TokenEnum.cs",
-              "ToolTip": "C:\\Git_Room\\GameRoom\\GameRoom\\TokenEnum.cs",
-              "RelativeToolTip": "GameRoom\\TokenEnum.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwgAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "DataType.cs",
+              "DocumentMoniker": "C:\\Git_Room\\GameRoom\\GameRoom\\DataType.cs",
+              "RelativeDocumentMoniker": "GameRoom\\DataType.cs",
+              "ToolTip": "C:\\Git_Room\\GameRoom\\GameRoom\\DataType.cs",
+              "RelativeToolTip": "GameRoom\\DataType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-03T12:03:10.529Z",
               "EditorCaption": ""
@@ -99,33 +99,33 @@
               "RelativeDocumentMoniker": "GameRoom\\PlayerClass.cs",
               "ToolTip": "C:\\Git_Room\\GameRoom\\GameRoom\\PlayerClass.cs",
               "RelativeToolTip": "GameRoom\\PlayerClass.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvxIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwwAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-03T12:02:24.603Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "HandlerClass.cs",
               "DocumentMoniker": "C:\\Git_Room\\GameRoom\\GameRoom\\HandlerClass.cs",
               "RelativeDocumentMoniker": "GameRoom\\HandlerClass.cs",
               "ToolTip": "C:\\Git_Room\\GameRoom\\GameRoom\\HandlerClass.cs",
               "RelativeToolTip": "GameRoom\\HandlerClass.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBEAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-03T12:01:30.674Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Git_Room\\GameRoom\\GameRoom\\Program.cs",
               "RelativeDocumentMoniker": "GameRoom\\Program.cs",
               "ToolTip": "C:\\Git_Room\\GameRoom\\GameRoom\\Program.cs",
               "RelativeToolTip": "GameRoom\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-03T09:17:17.095Z",
               "EditorCaption": ""

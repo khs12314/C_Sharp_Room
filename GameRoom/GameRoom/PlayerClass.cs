@@ -10,9 +10,14 @@ namespace GameRoom
     public class Player
     {
         Socket clientSocket;
-        public Player(Socket socket)
+        string playerName;
+        int playerID;
+
+        public Player(Socket socket, string playerName, int playerID)
         {
             clientSocket = socket;
+            this.playerName = playerName;
+            this.playerID = playerID;
         }
     }
 }

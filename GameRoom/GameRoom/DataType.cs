@@ -19,4 +19,9 @@ namespace GameRoom
         RoomDelete,
 
     }
+    public struct Packet
+    {
+        public Token Token;
+        public string JsonData;
+    }
 }
